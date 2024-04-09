@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-shopping-cart-app/static/css/main.0bf5a9c4.css",
+    "main.js": "/fcc-shopping-cart-app/static/js/main.2de981f3.js",
+    "static/js/453.2c450c23.chunk.js": "/fcc-shopping-cart-app/static/js/453.2c450c23.chunk.js",
+    "index.html": "/fcc-shopping-cart-app/index.html",
+    "main.0bf5a9c4.css.map": "/fcc-shopping-cart-app/static/css/main.0bf5a9c4.css.map",
+    "main.2de981f3.js.map": "/fcc-shopping-cart-app/static/js/main.2de981f3.js.map",
+    "453.2c450c23.chunk.js.map": "/fcc-shopping-cart-app/static/js/453.2c450c23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf5a9c4.css",
+    "static/js/main.2de981f3.js"
+  ]
+}
